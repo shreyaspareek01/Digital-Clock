@@ -15,8 +15,8 @@ body {
 }
 
 .clock {
-  width: 25vw;
-  height: 25vh;
+  width: 30vw;
+  height: 30vh;
   background: rgb(255, 255, 255, 0.2);
   backdrop-filter: blur(3px);
   border-radius: 10px;
